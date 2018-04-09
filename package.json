@@ -1,6 +1,6 @@
 {
   "name": "kelog",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Log to web console with colors",
   "main": "index.js",
   "scripts": {
